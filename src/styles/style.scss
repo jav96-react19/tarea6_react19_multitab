@@ -1,0 +1,13 @@
+$buttonTrueColor: linear-gradient(to right, #4cbf94, #29b382, #0e8d65, #046848);
+$buttonFalseColor: linear-gradient(to right, #b91c1c, #dc2626, #ef4444, #f87171);
+
+.powerOn
+{
+    background: $buttonTrueColor
+}
+.powerOff
+{
+    background: $buttonFalseColor;
+}
+
+
